@@ -2,7 +2,7 @@
 
 
 class Square:
-    """This class represents the 
+    """This class represents the
     blueprint of a square."""
 
     def __init__(self, size=0, position=(0, 0)):

@@ -4,7 +4,7 @@ import math
 
 
 class MagicClass:
-    """This class represent the 
+    """This class represent the
     blueprint of a circle."""
 
     def __init__(self, radius=0):

@@ -2,7 +2,6 @@
 
 class Square:
 
-    def __init__(self, size): 
-'''The init method constructs the object for us ''' 
-        
+    def __init__(self, size):
+     
         self.__size = size
