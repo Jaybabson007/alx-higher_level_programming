@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""This defines classes for a singly-linked list."""
+
 
 class Node:
     """This class represent the blueprint of a node
@@ -7,7 +9,7 @@ class Node:
     def __init__(self, data, next_node=None):
         """This function initializes a new Node.
 
-            Arguments:
+        Args:
             data (int): data of the new Node.
             next_node (Node): next node of the new Node.
         """

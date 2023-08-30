@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""This define a MagicClass matching exactly a bytecode provided in the project"""
+
 
 import math
 
@@ -10,7 +12,8 @@ class MagicClass:
     def __init__(self, radius=0):
         """This function initializes a MagicClass.
 
-        Argument:
+    
+    Args:
         radius (float or int): radius of the new MagicClass.
         """
         self.__radius = 0
