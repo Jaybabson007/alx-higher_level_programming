@@ -8,3 +8,4 @@ class Rectangle:
     A Class that defines the  properties of rectangle.
     """
     pass
+
